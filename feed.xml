@@ -3,12 +3,96 @@
     <title>Publii</title>
     <link href="https://liquidzine.github.io/publii-project/feed.xml" rel="self" />
     <link href="https://liquidzine.github.io/publii-project" />
-    <updated>2022-09-03T12:59:47+03:00</updated>
+    <updated>2022-09-03T13:01:22+03:00</updated>
     <author>
         <name>Matt</name>
     </author>
     <id>https://liquidzine.github.io/publii-project</id>
 
+    <entry>
+        <title>post 5</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://liquidzine.github.io/publii-project/post-5.html"/>
+        <id>https://liquidzine.github.io/publii-project/post-5.html</id>
+
+        <updated>2022-09-03T13:01:22+03:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 1</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post 4</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://liquidzine.github.io/publii-project/post-4.html"/>
+        <id>https://liquidzine.github.io/publii-project/post-4.html</id>
+
+        <updated>2022-09-03T13:01:15+03:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 1</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post 3</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://liquidzine.github.io/publii-project/post-3.html"/>
+        <id>https://liquidzine.github.io/publii-project/post-3.html</id>
+
+        <updated>2022-09-03T13:01:05+03:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 1</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post 2</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://liquidzine.github.io/publii-project/post-2.html"/>
+        <id>https://liquidzine.github.io/publii-project/post-2.html</id>
+
+        <updated>2022-09-03T13:00:55+03:00</updated>
+            <summary>
+                <![CDATA[
+                    test 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test 1</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>post 1</title>
         <author>
