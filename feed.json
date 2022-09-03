@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Publii",
+    "description": "",
+    "home_page_url": "https://liquidzine.github.io/publii-project",
+    "feed_url": "https://liquidzine.github.io/publii-project/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matt"
+    },
+    "items": [
+        {
+            "id": "https://liquidzine.github.io/publii-project/post-1.html",
+            "url": "https://liquidzine.github.io/publii-project/post-1.html",
+            "title": "post 1",
+            "summary": "test 1",
+            "content_html": "<p>test 1</p>\n",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-03T12:59:47+03:00",
+            "date_modified": "2022-09-03T12:59:47+03:00"
+        }
+    ]
+}
